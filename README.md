@@ -1,4 +1,4 @@
-## Mainnet
+## Mainnet account CCD
 38N6udxcKW1fS6wgPDXt659b7NjZnd5cgxR4RXjZhMFD1Hzgri
 ## Concordium Development Environment
 ### 1: Install Rust
